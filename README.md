@@ -1,15 +1,13 @@
 ![Foto de capa](https://github.com/dymas/dymas/blob/main/IMG_20220126_082727.jpg)
 ## Olá, meu nome é Dymas 👋
 ### Neste momento...
-- 🔭 Estou trabalhando: *no meu novo site pessoal.*
-- 🌱 Estou aprendendo: *Test-driven development.*
-- 📫 Entre em contato: *contato@dymas.dev*
+- 🔭 Estou trabalhando: *no meu novo portfólio.*
+- 🌱 Estou aprendendo: *Flutter/Dart*
 
 ### Linguagens e ferramentas :
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=plastic&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=plastic&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=plastic&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=plastic&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
