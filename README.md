@@ -1,8 +1,7 @@
 ![Foto de capa](https://github.com/dymas/dymas/blob/main/IMG_20220126_082727.jpg)
 ## Olá, meu nome é Dymas 👋
 ### Neste momento...
-- 🔭 Estou trabalhando: *no meu novo portfólio.*
-- 🌱 Estou aprendendo: *Flutter/Dart*
+Desenvolvedor com experiência em tecnologias web e mobile, sempre aprendendo o que for necessário para solucionar problemas. Possuo conhecimento sólido nas linguagens JavaScript, TypeScript, Dart e Python, e nos frameworks React,js, Express.js, Flutter e Django. Busco implementar soluções testáveis e baseadas nas práticas do código limpo.
 
 ### Linguagens e ferramentas :
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
