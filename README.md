@@ -1,6 +1,5 @@
 ![Foto de capa](https://github.com/dymas/dymas/blob/main/IMG_20220126_082727.jpg)
 ## Olá, meu nome é Dymas 👋
-### Neste momento...
 Desenvolvedor com experiência em tecnologias web e mobile, sempre aprendendo o que for necessário para solucionar problemas. Possuo conhecimento sólido nas linguagens JavaScript, TypeScript, Dart e Python, e nos frameworks React,js, Express.js, Flutter e Django. Busco implementar soluções testáveis e baseadas nas práticas do código limpo.
 
 ### Linguagens e ferramentas :
